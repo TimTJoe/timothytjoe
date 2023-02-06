@@ -12,7 +12,9 @@ On a daily basis, I read books about technologies on my roadmap, dedicated 4 hou
 <br/>
 <br/>
 
+
 ## Languages
+
 <!-- A programming language is a computer language that is used by programmers (developers) to communicate with computers. 
 A programming language is mainly used to develop desktop applications, websites, and mobile applications.
 <br/>
@@ -31,6 +33,7 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 
 ## Libraries
+
 <!-- In programming, a library is a collection pre-built code developers can use to streamline the software development workflow.
 <br/>
 <br/> -->
@@ -42,8 +45,10 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br />
 
 ## Frameworks
+
 <!-- A programming framework is a foundation of code used to enhance both the quality and speed at which software is created. A framework consists of a set of methodologies and tools that make the programming process simpler, easier and faster.
 <br/> -->
 <img align="left" width="69px" alt="NODE.JS – (JRE) USE FOR BACK-END JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -56,6 +61,54 @@ A programming language is mainly used to develop desktop applications, websites,
 <img align="left" width="69px" alt="LARAVEL – (FRAMEWORK) FOR PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="left" width="69px" alt="BOOTSTRAP – (CSS FRAMEWORK)"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
+<br />
+<br />
+<br />
+<br />
+
+## Databases (SQL & NoSQL) & Web Servers
+
+<img align="left" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+<img align="left" width="170px" src="https://logodix.com/logo/1845796.png" />
+<img align="left" width="100px" src="https://vitejs.dev/logo-with-shadow.png" />
+                                                                                                             
+<br />
+<br />
+<br />
+<br />
+
+## Packages Manager
+
+<img align="left" width="69px" alt="NPM – (PACKAGE MANAGER) FOR NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" width="69px" alt="COMPOSER – (PACKAGE MANAGER) FOR PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+<img align="left" width="69px" alt="NUGET – (PACKAGE MANAGER) FOR C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Template Engines
+
+<img align="left" width="69px" src="https://cdn.cdnlogo.com/logos/p/63/pug.svg">
+<img align="left" width="69px" alt="RAZOR – (TEMPLATE ENGINE) FOR C#" src="https://raw.githubusercontent.com/soundaranbu/RazorTemplating/master/src/Razor.Templating.Core/assets/icon.png" />
+<img align="left" width="69px" alt="HANDLEBARS (HTML TEMPLATE ENGINE)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Task Runners & Bundlers
+
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+
+<br />
 <br />
 <br />
 <br />
