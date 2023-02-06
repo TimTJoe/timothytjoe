@@ -113,6 +113,21 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 
+## Tools & More...
+
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+
+<br />
+<br />
+<br />
+<br />
+
 <h1 align="center"> Projects/Repositories I Maintain</h1>
 
 <table>
