@@ -24,6 +24,33 @@ On a daily basis, I read books about technologies on my roadmap, dedicated 4 hou
 <br />
 <br />
 
+## Libraries
+<img align="left" width="69px" alt="REACT – (JS LIBRARY)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Frameworks
+<img align="left" width="69px" alt="NODE.JS – (JRE) USE FOR BACK-END JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" width="69px" alt="NODE.JS – (JRE) USE FOR BACK-END JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" width="69px" alt=".NET CORE 2.0 – (FRAMEWORK) FOR C# WINDOWS OS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
+<img align="left" width="69px" alt="ASP.NET CORE 2.0 – (FRAMEWORK) FOR C# DYCNAMIC WEB APP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img  align="left" width="69px" alt="XAMARIN – (HYBRID MOBILE APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" />
+<img align="left" width="69px" alt="REACT NATIVE – (HYBRID MOBILE APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="69px" alt="ELECTRON – (HYBID DESKTOP APPS)"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" />
+<img align="left" width="69px" alt="LARAVEL – (FRAMEWORK) FOR PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" width="69px" alt="BOOTSTRAP – (CSS FRAMEWORK)"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Projects I Maintain
 
 <table>
