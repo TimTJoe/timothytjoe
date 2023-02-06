@@ -15,8 +15,8 @@ On a daily basis, I read books about technologies on my roadmap, dedicated 4 hou
 ## Languages
 <!-- A programming language is a computer language that is used by programmers (developers) to communicate with computers. 
 A programming language is mainly used to develop desktop applications, websites, and mobile applications.
-<br/>
 <br/> -->
+<br/>
 <img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -32,8 +32,8 @@ A programming language is mainly used to develop desktop applications, websites,
 
 ## Libraries
 <!-- In programming, a library is a collection pre-built code developers can use to streamline the software development workflow.
-<br/>
-<br/> -->
+<br/>-->
+<br/> 
 <img align="left" width="69px" alt="REACT – (JS LIBRARY)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg" />
 <img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
@@ -42,6 +42,7 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
 
 ## Frameworks
 <!-- A programming framework is a foundation of code used to enhance both the quality and speed at which software is created. A framework consists of a set of methodologies and tools that make the programming process simpler, easier and faster.
@@ -59,6 +60,21 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
+
+## Databases (SQL & NoSQL) & Web Servers
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
+
+
+
+<br />
+<br />
+<br />
+<br/>
 
 <h1 align="center"> Projects/Repositories I Maintain</h1>
 
