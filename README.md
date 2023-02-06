@@ -8,11 +8,24 @@ Following this roadmap, I learned 40 technologies spanning from SPA, JRE, to NoS
 
 On a daily basis, I read books about technologies on my roadmap, dedicated 4 hours to build features for my two portfolio pieces; a streaming platform to upload and listen music, create & listen to online radio and host talk-show (like twitter spaces), and a communication web app for sending short disappearing messages to people nearby. these projects are intended to apply what I’m learning and more importantly help me land a job.
 
+## Languages I've Learned 
 
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img  align="left" width="69px" alt="CShape Programming Language" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img  align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Projects I Maintain
+
 <table>
  <tbody>
   <tr>
