@@ -15,8 +15,35 @@ On a daily basis, I read books about technologies on my roadmap, dedicated 4 hou
 <img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img  align="left" width="69px" alt="CShape Programming Language" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img  align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Libraries
+<img  align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img  align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Frameworks
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img align="left" width="69px" alt="XAMARIN - (HYBRID MOBILE APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+<img align="left" width="69px" alt="REACT NATIVE – (HYBRID MOBILE APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="69px" alt="ELECTRON – (HYBID DESKTOP APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" />
+<img align="left" width="69px" alt="LARAVEL – (FRAMEWORK) FOR PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
 <br />
 <br />
