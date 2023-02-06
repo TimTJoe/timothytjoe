@@ -1,18 +1,31 @@
 > Quick fact: When I first browsed Google, my first search was the word, `Internet` followed by `How to make money on the internet? `, I was taken to Wikipedia, and sucked in.
 
-My name is [Timothy Joe](https://twitter.com/amrealjoe), I was raised in Liberia, West Africa by a professional driver and a business woman, I’m the oldest sibling to four (4). I wrote my first line of Code when I was 20 years old, two years later, I joined an ICT startup as Lead Developer, I worked on six (6) website projects, mostly with WordPress, I created three (3) logo designs and trained an intern. I left after 3 years on the job. 
+My name is [Timothy Joe](https://twitter.com/amrealjoe), I was raised in Liberia, West Africa by a professional driver and a business woman, I’m the oldest sibling to four (4). I wrote my first line of Code when I was 20 years old, two years later, I joined an ICT startup as Lead Developer, I worked on six (6) website projects, mostly with WordPress, created three (3) logo designs and trained an intern. I left after 3 years on the job. 
 
-I venture into the field of freelancing, I developed seven (8) websites for service providers, charitable organizations, a news outlet and a drug store, mainly using PHP & JavaScript, I designed six (6) logos in the process for various clients. But I felt I was lacking a lot, as a result, I created a shortsighted roadmap to aid me learn five Web Development technologies spanning from backend to frontend to database management tools for a period of 7 years (2020 – 2027). Luckily, I posted this roadmap on Facebook, [Mesheal D. Somah, Sr.](https://twitter.com/mdsomah), my current study buddy and good friend, had been developing a five years roadmap, saw my post and reached out to me, shared his roadmap, it was much better, I threw my roadmap away to follow his, this is how I made my transition to being a Full Stack Developer.
+I ventured into the field of freelancing, developed seven (8) websites for service providers, charitable organizations, a news outlet and a drug store, mainly using PHP & JavaScript, I designed six (6) logos in the process for various clients. But I felt I was lacking a lot, as a result, I created a shortsighted roadmap to aid me learn five Web Development technologies spanning from backend to frontend to database management tools for a period of 7 years (2020 – 2027). Luckily, I posted this roadmap on Facebook, [Mesheal D. Somah, Sr.](https://twitter.com/mdsomah), my current study buddy and good friend, had been developing a five years roadmap, saw my post and reached out to me, shared his roadmap, it was much better, I threw my roadmap away to follow his; this is how I made my transition to being a Full Stack Developer.
 
 Following this roadmap, I learned 40 technologies spanning from SPA, JRE, to NoSQL database, SQL Database, Version Control, Template Engine, Package Manager, Task Runner, Bundler, Hybrid Desktop and Mobile app development, APPML, Web Server, and learned three programing languages in just one year.
 
 On a daily basis, I read books about technologies on my roadmap, dedicated 4 hours to build features for my two portfolio pieces; a streaming platform to upload and listen music, create & listen to online radio and host talk-show (like twitter spaces), and a communication web app for sending short disappearing messages to people nearby. these projects are intended to apply what I’m learning and more importantly help me land a job.
 
+## Languages I've Learned 
 
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img  align="left" width="69px" alt="CShape Programming Language" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img  align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Projects I Maintain
+
 <table>
  <tbody>
   <tr>
