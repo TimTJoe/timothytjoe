@@ -8,11 +8,60 @@ Following this roadmap, I learned 40 technologies spanning from SPA, JRE, to NoS
 
 On a daily basis, I read books about technologies on my roadmap, dedicated 4 hours to build features for my two portfolio pieces; a streaming platform to upload and listen music, create & listen to online radio and host talk-show (like twitter spaces), and a communication web app for sending short disappearing messages to people nearby. these projects are intended to apply what I’m learning and more importantly help me land a job.
 
+<h1 align="center"> Technologies I've Learned </h1>
+<br/>
+<br/>
 
+## Languages
+<!-- A programming language is a computer language that is used by programmers (developers) to communicate with computers. 
+A programming language is mainly used to develop desktop applications, websites, and mobile applications.
+<br/>
+<br/> -->
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img  align="left" width="69px" alt="CShape Programming Language" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img  align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img  align="left" width="69px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
+<br />
+<br />
+<br />
+<br />
 
+## Libraries
+<!-- In programming, a library is a collection pre-built code developers can use to streamline the software development workflow.
+<br/>
+<br/> -->
+<img align="left" width="69px" alt="REACT – (JS LIBRARY)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+<img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 
-## Projects I Maintain
+<br />
+<br />
+<br />
+
+## Frameworks
+<!-- A programming framework is a foundation of code used to enhance both the quality and speed at which software is created. A framework consists of a set of methodologies and tools that make the programming process simpler, easier and faster.
+<br/> -->
+<img align="left" width="69px" alt="NODE.JS – (JRE) USE FOR BACK-END JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" width="69px" alt="NODE.JS – (JRE) USE FOR BACK-END JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" width="69px" alt=".NET CORE 2.0 – (FRAMEWORK) FOR C# WINDOWS OS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
+<img align="left" width="69px" alt="ASP.NET CORE 2.0 – (FRAMEWORK) FOR C# DYCNAMIC WEB APP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img  align="left" width="69px" alt="XAMARIN – (HYBRID MOBILE APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" />
+<img align="left" width="69px" alt="REACT NATIVE – (HYBRID MOBILE APPS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="69px" alt="ELECTRON – (HYBID DESKTOP APPS)"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" />
+<img align="left" width="69px" alt="LARAVEL – (FRAMEWORK) FOR PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" width="69px" alt="BOOTSTRAP – (CSS FRAMEWORK)"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+
+<br />
+<br />
+<br />
+
+<h1 align="center"> Projects/Repositories I Maintain</h1>
+
 <table>
  <tbody>
   <tr>
@@ -22,28 +71,3 @@ On a daily basis, I read books about technologies on my roadmap, dedicated 4 hou
    <td><a href="https://github.com/amrealjoe/nearbychat">NearbyChat</a></td>
    <td>A communcation web app for sending short disappearing message to people nearby.</td>
   </tr>
-  
-<!-- 
-… and many more [on npm](https://www.npmjs.com/~ljharb) -->
-
-<!-- ## Standards/Communities I Contribute To
-<caption>this includes participation in working groups, committees, meetings, general issue triage, etc</caption> -->
-
- <!-- - [TC39](https://tc39.es/) (JavaScript language committee) -->
-
-
-
-<!-- # How Sponsorship Helps
-
-Although open source is a huge part of my life, it's not the most important part - I have a spouse, kids, and a dog; bills to pay; and I also try to give back to the wider community.
-
-Sponsorship helps fund domains, travel, but also *other sponsorships* -->
-<!-- 
-# Github Stats
-
-<details>
-
-![GitHub stats](https://github.com/ljharb/ljharb/blob/metrics/github-metrics.svg)
-
-</details> -->
-
