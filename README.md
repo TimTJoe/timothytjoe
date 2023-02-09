@@ -11,6 +11,8 @@ On a daily basis, I read books about technologies on my roadmap, dedicated 4 hou
 <h1 align="center"> Technologies I've Learned </h1>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 ## Languages
@@ -31,6 +33,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
+<br/>
 
 ## Libraries
 
@@ -46,6 +50,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
+<br/>
 
 ## Frameworks
 
@@ -65,6 +71,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
+<br/>
 
 ## Databases (SQL & NoSQL) & Web Servers
 
@@ -80,6 +88,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
+<br/>
 
 ## Packages Manager
 
@@ -87,6 +97,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <img align="left" width="69px" alt="COMPOSER – (PACKAGE MANAGER) FOR PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 <img align="left" width="69px" alt="NUGET – (PACKAGE MANAGER) FOR C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -102,6 +114,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ## Task Runners & Bundlers
 
@@ -112,6 +126,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 <br />
+<br/>
+<br/>
 
 ## Tools & More...
 
@@ -124,9 +140,8 @@ A programming language is mainly used to develop desktop applications, websites,
 <img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
 
-
-
-
+<br/>
+<br/>
 <br />
 <br />
 <br />
