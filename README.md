@@ -147,7 +147,7 @@ A programming language is mainly used to develop desktop applications, websites,
 <br />
 <br />
 
-<h1 align="center"> Projects/Repositories I Maintain</h1>
+<!-- <h1 align="center"> Projects/Repositories I Maintain</h1>
 
 <table>
  <tbody>
@@ -157,4 +157,4 @@ A programming language is mainly used to develop desktop applications, websites,
   <tr>
    <td><a href="https://github.com/amrealjoe/nearbychat">NearbyChat</a></td>
    <td>A communcation web app for sending short disappearing message to people nearby.</td>
-  </tr>
+  </tr> -->
