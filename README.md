@@ -17,12 +17,9 @@ If you're seeking a versatile and resourceful full stack software developer who 
 Contact:
 
 Timothy T. Joe
-
 timtheme@gmail.com
-
-linkedin.com/TimothyTJoe
-
+linkedin.com/TimothyJoe
 github.com/TimothyTJoe
 
 
-![](https://komarev.com/ghpvc/?username=amrealjoe)
+![](https://komarev.com/ghpvc/?username=timothytjoe)
