@@ -16,4 +16,4 @@ If you're seeking a versatile and resourceful full stack software developer who 
 
 Contact:   timtheme@gmail.com
 
-![](https://komarev.com/ghpvc/?username=timothytjoe)
+![](https://komarev.com/ghpvc/?username=timothytjoe&style=flat-square)
