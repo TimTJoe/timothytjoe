@@ -14,9 +14,11 @@ Driven by a relentless thirst for knowledge, I actively engage with the develope
 
 If you're seeking a versatile and resourceful full stack software developer who can adapt to any project, let's connect and explore how my skills and experience can contribute to your team's success. Together, we can create software solutions that push boundaries and make a meaningful impact.
 
-I'm thrilled to have the opportunity to share my knowledge and expertise as a versatile and resourceful full stack software developer. If you're looking for someone who can adapt to any project and contribute to your team's success, I'm here to help. Let's connect and explore the possibilities of collaborating on building exceptional software solutions that push boundaries and make a meaningful impact in the digital landscape.
-
-Thank you for considering my profile. I'm excited about the chance to contribute my skills and be part of innovative projects. Feel free to reach out, and let's create something extraordinary together
+Contact:
+Timothy T. Joe
+timtheme@gmail.com
+linkedin.com/TimothyTJoe
+github.com/TimothyTJoe
 
 
 ![](https://komarev.com/ghpvc/?username=amrealjoe)
